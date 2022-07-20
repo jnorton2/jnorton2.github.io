@@ -1,0 +1,12 @@
+.svg-wrapper {
+    margin: auto;
+    width: 300px;
+}
+
+.test-tube-top:hover {
+    opacity: .95;
+}
+
+.test-tube-top, .test-tube-container, .test-tube-fill-body {
+    cursor: pointer;
+}
